@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-ziya-demirci-42ziyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yusuf-ziya-demirci-42ziyo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusuf-ziya-demirci-42ziyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-ziya-demirci-42ziyo" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufzdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufzdm" height="30" width="40" /></a>
 </p>
 
